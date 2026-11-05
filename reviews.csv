@@ -18,4 +18,6 @@ review_id,date,rating,review_text
 17,2024-02-01,2,"I want to attach a photo of my textbook and then describe it by voice. Can't do both together."
 18,2024-02-02,3,"Voice works but only for short queries. Anything longer than 30 seconds gets cut."
 19,2024-02-03,2,"Telugu-English mixing causes the worst transcription errors. My friends have same problem."
-20,2024-02-04,1,"App charges subscription but basic voice accuracy is worse than free alternatives. Very disappointing.."
+20,2024-02-04,1,"App charges subscription but basic voice accuracy is worse than free alternatives. Very disappointing."
+21,2024-02-05,1,"I pay $20 a month for ChatGPT Plus and voice doesn't even work properly. Feels like I'm paying for nothing. Want a refund."
+22,2024-02-06,2,"Why am I paying for Plus if the voice feature keeps failing? Free tier users have the same broken experience. Not worth the subscription."
